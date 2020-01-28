@@ -107,9 +107,9 @@ In the command prompt:</br>
       <code>`libavcodec-dev \`</code></br>
       <code>`zlib1g-dev`</code></br>
    </ol>
-  `sudo pip install --upgrade pip virtualenv setuptools`</br>
-  `pip install Cython==0.28.2`</br>
-  `pip install kivy`</br>
-  `pip install pygame`</br>
+  <code>`sudo pip install --upgrade pip virtualenv setuptools`</code></br>
+  <code>`pip install Cython==0.28.2`</code></br>
+  <code>`pip install kivy`</code></br>
+  <code>`pip install pygame`</code></br>
 
 Have fun !
