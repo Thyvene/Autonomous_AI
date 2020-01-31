@@ -1,4 +1,4 @@
-# Autonomous_Vehicle_AI
+# Autonomous_AI
 A simple code write on Python to create an autonomous vehicle looking for the best path to go from point A to point B
 
 To make it run properly, you will need to download somes depencies and programs.
